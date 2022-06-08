@@ -1,0 +1,500 @@
+SentenceID,Words,Tags
+1,Pankaj Seth,person
+1,MS Excel,tool_skills
+1,Auto ARIMA Mode,tech_skills
+1,logistic Regression,tech_skills
+1,Sentiment Analysis,tech_skills
+1,SQL,tech_skills
+1,Power BI,tool_skills
+1,Qlik Sense,tool_skills
+1,SAS,tool_skills
+1,TCS,organization
+1,8,exp_in_yrs
+1,9173685598,contact_no
+1,pankaj.seth@tcs.com,contact_email
+2,DEEPNA CP,person
+2,TCS,organization
+2,Eclipse,tool_skills
+2,Git,tool_skills
+2,TCS,organization
+2,SQL,tech_skills
+2,NodeJS,tech_skills
+2,AngularJS,tech_skills
+2,JavaScript,tech_skills
+2,XML,tech_skills
+2,HTML,tech_skills
+2,C++,tech_skills
+2,C#,tech_skills
+2,Core Java,tech_skills
+2,Visual studio,tool_skills
+2,SVN,tool_skills
+2,Eclipse,tool_skills
+2,deepna.cp@tcs.com,contact_email
+2,9400521890,contact_no
+2,4,exp_in_yrs
+3,DEBANKUR SAHA,person
+3,Python,tech_skills
+3,NodeJS,tech_skills
+3,AngularJS,tech_skills
+3,JavaScript,tech_skills
+3,XML,tech_skills
+3,HTML,tech_skills
+3,Core Java,tech_skills
+3,Eclipse,tool_skills
+3,Visual studio,tool_skills
+3,Git,tool_skills
+3,Jupyter,tool_skills
+3,PyCharm,tech_skills
+3,TCS,organization
+3,Javascript,tech_skills
+3,CSS,tech_skills
+3,HTML,tech_skills
+3,Java,tech_skills
+3,VBA,tech_skills
+3,Python,tech_skills
+3,3,exp_in_yrs
+3,debankur.saha@tcs.com,contact_email
+3,8981532992,contact_no
+4,Shruti Maheshwari,person
+4,NodeJS,tech_skills
+4,Angular2,tech_skills
+4,Octave,tool_skills
+4,Atom,tool_skills
+4,SQL,tech_skills
+4,Python,tech_skills
+4,TCS,organization
+4,3,exp_in_yrs
+4,maheshwari.shruti@tcs.com,contact_email
+4,9887770063,contact_no
+5,NEERAJ SHARMA,person
+5,NodeJS,tech_skills
+5,Angular JS,tech_skills
+5,JavaScript,tech_skills
+5,XML,tech_skills
+5,HTML,tech_skills
+5,Core Java,tech_skills
+5,Tomcat,tool_skills
+5,Net Beans,tool_skills
+5,Eclipse,tool_skills
+5,Oracle,tech_skills
+5,XML,tech_skills
+5,HTML,tech_skills
+5,J2EE,tech_skills
+5,Java,tech_skills
+5,8,exp_in_yrs
+5,TCS,organization
+5,neeraj.shama9@tcs.com,contact_email
+5,7836014622,contact_no
+5,9599722480,contact_no
+6,Sanjivani Tiwari,person
+6,Python,tech_skills
+6,CSS,tech_skills
+6,HTML,tech_skills
+6,SQL,tech_skills
+6,HTML,tech_skills
+6,TCS,organization
+6,Core Java,tech_skills
+6,CA Policy Manager,tool_skills
+6,Layer7,tool_skills
+6,1,exp_in_yrs
+6,sanjivani.tiwari@tcs.com,contact_email
+6,9993962838,contact_no
+7,SANDEEP BHADORIA,person
+7,Eclipse,tool_skills
+7,PgAdmin,tool_skills
+7,Core Java,tech_skills
+7,Python,tech_skills
+7,CSS,tech_skills
+7,HTML,tech_skills
+7,JavaScript,tech_skills
+7,1,exp_in_yrs
+7,TCS,organization
+7,bhadoria.sandeep@tcs.com,contact_email
+7,9074743978,contact_no
+8,STUTI NIGAM,person
+8,Javascript,tech_skills
+8,Python3,tech_skills
+8,Node Js,tech_skills
+8,Cognos BI,tool_skills
+8,Google Cloud Platform,tool_skills
+8,dialog flow,tool_skills
+8,Oracle,tech_skills
+8,HTML,tech_skills
+8,Core Java,tech_skills
+8,TCS,organization
+8,1.5,exp_in_yrs
+8,8818934832,contact_no
+8,stuti.nigam@tcs.com,contact_email
+9,Manish Kumar,person
+9,Eclipse,tool_skills
+9,Javascript,tech_skills
+9,Python3,tech_skills
+9,CSS,tech_skills
+9,HTML,tech_skills
+9,Java,tech_skills
+9,TCS,organization
+9,28,exp_in_months
+9,9923117749,contact_no
+9,kumar.manish31@tcs.com,contact_email
+10,Monika Joshi,person
+10,Node Js,tech_skills
+10,Python3,tech_skills
+10,TATA CONSULTANCY SERVICES LTD,organization
+10,SAP,tool_skills
+10,SSRS,tool_skills
+10,Informatica Powercentre,tool_skills
+10,ETL,tool_skills
+10,Oracle,tech_skills
+10,2,exp_in_yrs
+10,monika.joshi2@tcs.com,contact_email
+10,7486894869,contact_no
+11,Malkhan Singh,person
+11,Python,tech_skills
+11,tomcat,tool_skills
+11,PL/SQL,tech_skills
+11,CSS,tech_skills
+11,HTML,tech_skills
+11,C++,tech_skills
+11,.NET,tech_skills
+11,SQL,tech_skills
+11,C#,tech_skills
+11,AngularJS,tool_skills
+11,TCS,organization
+11,1.5,exp_in_yrs
+11,malkhan.prabhakar@tcs.com,contact_email
+11,8148223880,contact_no
+12,MONIKA TIWARI,person
+12,TATA CONSULTANCY SERVICES LTD,organization
+12,Hadoop,tech_skills
+12,Net Beans,tool_skills
+12,Eclipse,tool_skills
+12,Python,tech_skills
+12,SQL,tech_skills
+12,PostgreSQL,tech_skills
+12,HTML,tech_skills
+12,Java,tech_skills
+12,2,exp_in_months
+12,tiwari.monika@tcs.com,contact_email
+12,9650240535,contact_no
+13,Tanuj Daga,person
+13,TCS,organization
+13,",C++",tech_skills
+13,HTML,tech_skills
+13,python,tech_skills
+13,SQL,tech_skills
+13,PLSQL,tech_skills
+13,pgadmin,tool_skills
+13,INFORMATICA,tool_skills
+13,6,exp_in_months
+13,daga.tanuj@tcs.com,contact_email
+13,9893087460,contact_no
+14,GUNJAN,person
+14,TCS,organization
+14,Netbeans,tool_skills
+14,Eclipse,tool_skills
+14,SVN,tool_skills
+14,Javascript,tech_skills
+14,Python3,tech_skills
+14,CSS,tech_skills
+14,HTML,tech_skills
+14,Java,tech_skills
+14,4,exp_in_months
+14,gunjan.3@tcs.com,contact_email
+14,9711410423,contact_no
+15,Ishank Goel,person
+15,Visual Studio,tool_skills
+15,Net Beans,tool_skills
+15,Eclipse,tool_skills
+15,PHP,tech_skills
+15,JavaScript,tech_skills
+15,CSS,tech_skills
+15,HTML,tech_skills
+15,1,exp_in_yrs
+15,TCS,organization
+15,ishank.goel@tcs.com,contact_email
+15,9991134778,contact_no
+16,ANMOL PADIT,person
+16,PostgreSQL,tech_skills
+16,SQL,tech_skills
+16,NodeJS,tech_skills
+16,Angular2,tech_skills
+16,JavaScript,tech_skills
+16,CSS,tech_skills
+16,HTML,tech_skills
+16,C++,tech_skills
+16,C#,tech_skills
+16,Java,tech_skills
+16,NetBeans,tool_skills
+16,Code Blocks,tool_skills
+16,SVN,tool_skills
+16,Eclipse,tool_skills
+16,TCS,organization
+16,5,exp_in_months
+16,anmol.padit@tcs.com,contact_email
+16,7898056862,contact_no
+17,VISHAL MALVIY,person
+17,Java,tech_skills
+17,AngularJS,tool_skills
+17,Angular 2,tool_skills
+17,python,tool_skills
+17,netbeans,tool_skills
+17,SVN,tool_skills
+17,Eclipse,tool_skills
+17,HTML,tech_skills
+17,TCS,organization
+17,2,exp_in_months
+17,vishal.malviy@tcs.com,contact_email
+18,9009316403,contact_no
+19,APAR TIWARI,person
+19,Python,tech_skills
+19,Android,tech_skills
+19,Java,tech_skills
+19,Net Beans,tool_skills
+19,Eclipse,tool_skills
+19,PHP,tech_skills
+19,JavaScript,tech_skills
+19,CSS,tech_skills
+19,HTML,tech_skills
+19,TCS,organization
+19,3,exp_in_months
+19,apar.tiwari@tcs.com,contact_email
+19,9039144630,contact_no
+20,Joyanto Sarkar,person
+20,Eclipse,tool_skills
+20,Javascript,tech_skills
+20,CSS,tech_skills
+20,HTML,tech_skills
+20,Java,tech_skills
+20,TCS,organization
+20,5,exp_in_months
+20,joyanto.s@tcs.com,contact_email
+20,9789710627,contact_no
+21,SAKSHI KWATRA,person
+21,Angular2,tech_skills
+21,AngularJS,tech_skills
+21,JavaScript,tech_skills
+21,HTML,tech_skills
+21,J2EE,tech_skills
+21,J2SE,tech_skills
+21,NetBeans,tool_skills
+21,Eclipse,tool_skills
+21,Hadoop,tech_skills
+21,TCS,organization
+21,2,exp_in_months
+21,s.kwatra@tcs.com,contact_email
+21,7678634708,contact_no
+22,SAKSHI KWATRA,person
+22,NetBeans,tool_skills
+22,Eclipse,tool_skills
+22,Python,tech_skills
+22,J2SE,tech_skills
+22,C++,tech_skills
+22,C,tech_skills
+22,Hadoop,tech_skills
+22,JAVA,tech_skills
+22,TCS,organization
+22,2,exp_in_months
+22,s.kwatra@tcs.com,contact_email
+22,7678634708,contact_no
+23,HARSHIT MOONAT,person
+23,Android Studio,tool_skills
+23,Sublime,tool_skills
+23,Eclipse,tool_skills
+23,Python,tech_skills
+23,CSS3,tech_skills
+23,HTML,tech_skills
+23,C++,tech_skills
+23,Java,tech_skills
+23,TCS,organization
+23,4,exp_in_months
+23,harshit.moonat@tcs.com,contact_email
+23,8989187016,contact_no
+24,NEHA GUPTA,person
+24,Angular JS,tech_skills
+24,C++,tech_skills
+24,C,tech_skills
+24,CSS,tech_skills
+24,Angular2,tech_skills
+24,Python,tech_skills
+24,JavaScript,tech_skills
+24,HTML,tech_skills
+24,Java,tech_skills
+24,SVN,tool_skills
+24,Eclipse,tool_skills
+24,Net beans,tool_skills
+24,2,exp_in_months
+24,TCS,organization
+24,neha.gupta13@tcs.com,contact_email
+24,9873263223,contact_no
+25,VISHAL MALVIY,person
+25,python,tech_skills
+25,Angular 2,tech_skills
+25,AngularJS,tech_skills
+25,JavaScript,tech_skills
+25,CSS,tech_skills
+25,HTML,tech_skills
+25,Java,tech_skills
+25,netbeans,tool_skills
+25,sublime,tool_skills
+25,SVN,tool_skills
+25,Eclipse,tool_skills
+25,TCS,organization
+25,4,exp_in_months
+25,vishal.malviy@tcs.com,contact_email
+25,9009316403,contact_no
+26,SHIVANICHOUDHARY,person
+26,SQL,tech_skills
+26,HTML,tech_skills
+26,Java,tech_skills
+26,Android Studio,tool_skills
+26,Eclipse,tool_skills
+26,TCS,organization
+26,4,exp_in_months
+26,9997909775,contact_no
+26,shivani@tcs.com,contact_email
+27,KUPPAM EZRA NISSY,person
+27,Node.js,tech_skills
+27,Anakonda,tool_skills
+27,Eclipse,tool_skills
+27,Python,tech_skills
+27,CSS,tech_skills
+27,HTML,tech_skills
+27,Java,tech_skills
+27,5,exp_in_months
+27,TCS,organization
+27,ezra.kuppam@tcs.com,contact_email
+27,8978997930,contact_no
+28,SAURAV KUMAR,person
+28,Anakonda,tool_skills
+28,Eclipse,tool_skills
+28,Angular2,tech_skills
+28,Javascript,tech_skills
+28,Python3,tech_skills
+28,CSS,tech_skills
+28,HTML,tech_skills
+28,Java,tech_skills
+28,TCS,organization
+28,5,exp_in_months
+28,9711972773,contact_no
+28,saurav.k8@tcs.com,contact_email
+29,Joyanto Sarkar,person
+29,Eclipse,tool_skills
+29,Unix,tech_skills
+29,AO,tech_skills
+29,CSS,tech_skills
+29,HTML,tech_skills
+29,Java,tech_skills
+29,TCS,organization
+29,5,exp_in_months
+29,joyanto.s@tcs.com,contact_email
+29,9789710627,contact_no
+29,Narendra Yenuganti,person
+29,Eclipse,tool_skills
+29,Javascript,tech_skills
+29,Python3,tech_skills
+29,CSS,tech_skills
+29,Java,tech_skills
+29,TCS,organization
+29,5,exp_in_months
+29,narendra.y@tcs.com,contact_email
+29,7675014991,contact_no
+30,Akanksha Deshmukh,person
+30,Spring,tech_skills
+30,Javascript,tech_skills
+30,Python3,tech_skills
+30,CSS,tech_skills
+30,HTML,tech_skills
+30,Java,tech_skills
+30,TCS,organization
+30,4,exp_in_months
+30,akanksha.deshmukh@tcs.com,contact_email
+30,8600549755,contact_no
+31,SURENDRA NIKHIL KESAPRAGADA,person
+31,Node.js,tech_skills
+31,Javascript,tech_skills
+31,Anakonda,tool_skills
+31,Eclipse,tool_skills
+31,Python3,tech_skills
+31,CSS,tech_skills
+31,HTML,tech_skills
+31,Java,tech_skills
+31,5,exp_in_months
+31,TCS,organization
+31,surendra.kesapragada@tcs.com,contact_email
+31,9666442884,contact_no
+32,YESWANTH MODUPALLI,person
+32,Unix,tech_skills
+32,Node.js,tech_skills
+32,Anakonda,tool_skills
+32,Eclipse,tool_skills
+32,Python3,tech_skills
+32,CSS,tech_skills
+32,HTML,tech_skills
+32,Java,tech_skills
+32,TCS,organization
+32,5,exp_in_months
+32,yeswanth.m@tcs.com,contact_email
+32,8886188805,contact_no
+33,NIKITA VEERANAGOUDA PATIL,person
+33,unix,tech_skills
+33,Node.js,tech_skills
+33,Anakonda,tool_skills
+33,Eclipse,tool_skills
+33,Javascript,tech_skills
+33,Python3,tech_skills
+33,HTML,tech_skills
+33,Java,tech_skills
+33,TCS,organization
+33,5,exp_in_months
+33,niki.pat@tcs.com,contact_email
+33,9901663258,contact_no
+34,RAVIKANT,person
+34,SQL,tech_skills
+34,HTML,tech_skills
+34,CSS,tech_skills
+34,C,tech_skills
+34,Java,tech_skills
+34,Node.js,tech_skills
+34,Android Studio,tool_skills
+34,Eclipse,tool_skills
+34,JavaScript,tech_skills
+34,Python3,tech_skills
+34,CSS,tech_skills
+34,HTML,tech_skills
+34,Java,tech_skills
+34,TCS,organization
+34,5,exp_in_months
+34,ravikant.7@tcs.com,contact_email
+34,8445340053,contact_no
+35,SRIKAR BRAHMADEVARA,person
+35,Sql,tech_skills
+35,Unix,tech_skills
+35,Node.js,tech_skills
+35,Anakonda,tool_skills
+35,Eclipse,tool_skills
+35,Javascript,tech_skills
+35,Python3,tech_skills
+35,CSS,tech_skills
+35,HTML,tech_skills
+35,Java,tech_skills
+35,TCS,organization
+35,5,exp_in_months
+35,b.srikar@tcs.com,contact_email
+35,9492552552,contact_no
+36,NAVNEET KAUR,person
+36,UNIX,tech_skills
+36,J2SE,tech_skills
+36,J2EE,tech_skills
+36,ASP.NET,tech_skills
+36,C++,tech_skills
+36,C,tech_skills
+36,Android Studio,tool_skills
+36,NetBeans,tool_skills
+36,Visual Studio,tool_skills
+36,Eclipse,tool_skills
+36,Android,tech_skills
+36,JAVA,tech_skills
+36,TCS,organization
+36,2,exp_in_months
+36,navneet.kaur7@tcs.com,contact_email
+36,8054090200,contact_no
